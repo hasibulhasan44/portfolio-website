@@ -7,6 +7,9 @@ h1{
 }
 .name{
     color: orangered;
+    font-size: 60px;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-weight: 400;
 }
 .me{
     color: rgb(153, 49, 8);
@@ -42,11 +45,11 @@ h1{
     background-position: right;
     background-position-x: center;
 }
-.experience-area{
+/* .experience-area{
     background-image: url(images/pics/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-}
+} */
 .half-width, pic{
     padding-right: 7%;
 }
